@@ -23,3 +23,17 @@ First of all you take all the carpet and copy with CTRL+C
 and paste in the sd card 
 
 # I RECOMEND PASTE AND REPLACE ALL 
+
+
+Declaración de No Distribución de Software Pirata
+Este proyecto NO tiene la intención de distribuir, promover o facilitar el uso de software pirata o ilegal relacionado con la Nintendo Switch. Quiero dejar en claro que:
+
+Cumplimiento de las Leyes de Derechos de Autor: Este proyecto respeta todas las leyes y regulaciones de derechos de autor vigentes. No se permite ni se tolera la distribución de copias no autorizadas de juegos o cualquier otro software protegido por derechos de autor.
+
+Propósito del Proyecto: El objetivo de este proyecto es investigacion . No promueve ni apoya de ninguna manera la piratería de software.
+
+Contenido Permitido: Todo el contenido, código, y materiales incluidos en este proyecto han sido creados de manera original, son de dominio público, o están distribuidos bajo licencias que permiten su libre uso y distribución. En ningún momento se incluirán ni se aceptarán contribuciones que infrinjan los derechos de autor.
+
+Contribuciones de la Comunidad: Se alienta a todos los colaboradores a asegurarse de que sus aportes cumplan con todas las leyes de propiedad intelectual. Cualquier contribución que viole estas normas será rechazada y eliminada del proyecto.
+
+Uso Responsable: Los usuarios y colaboradores de este proyecto son responsables de asegurarse de que su uso del mismo cumple con todas las leyes aplicables. No nos hacemos responsables por cualquier uso indebido del software o código contenido en este repositorio.
