@@ -7,3 +7,8 @@ In SD carpet you have all the things to add to the "Magic" Switch
 ![image](https://github.com/pilotes56/Full-install-Atmosphere/assets/73985776/c932fbe8-fcde-4b6a-8192-1de810f91c71)
 In the carpet switch you have Tinfoil installer,AOi updater.... and other magics apps for this "Magic" switch
 ![image](https://github.com/pilotes56/Full-install-Atmosphere/assets/73985776/04ba76da-5759-4e8e-bcf6-e64f3e793751)
+#Install all
+First of all you take all the carpet and copy with CTRL+C
+![image](https://github.com/pilotes56/Full-install-Atmosphere/assets/73985776/a5f44bf2-1e41-4e38-a85a-0c5e25fcf51b)
+and paste in the sd card 
+# I RECOMEND PASTE AND REPLACE ALL 
